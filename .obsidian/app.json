@@ -1,3 +1,4 @@
 {
-  "openBehavior": "file:99_Anexos"
+  "openBehavior": "file:99_Anexos",
+  "alwaysUpdateLinks": true
 }
