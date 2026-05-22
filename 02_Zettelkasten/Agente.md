@@ -5,7 +5,6 @@ topico: Agente
 links: "[[MOC_Sistemas_Multiagente]]"
 ---
 
-# Agente
 
 ## 🧠 Resumo em uma frase
 Definição do conceito de um agente.

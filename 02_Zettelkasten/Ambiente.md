@@ -5,10 +5,9 @@ topico: Ambiente
 links: "[[MOC_Sistemas_Multiagente]]"
 ---
 
-# Ambiente
 
 ## 🧠 Resumo em uma frase
-Definição do conceito de um ambiente no contexto de um [[Agente]].
+Definição do conceito de um ambiente e seus tipos no contexto de sistemas multiagentes,.
 
 ## ✍️ Manuscrito
 ![[img_Ambiente.excalidraw]]
