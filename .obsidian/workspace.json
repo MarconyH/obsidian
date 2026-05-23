@@ -94,10 +94,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/img_Postura Intencional (Intencional Stance).excalidraw.md"
+                "file": "Excalidraw/img_Orquestração Multiagente.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "img_Postura Intencional (Intencional Stance).excalidraw"
+              "title": "img_Orquestração Multiagente.excalidraw"
             }
           }
         ],
@@ -272,15 +272,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "558e4c3df7800fe1",
+  "active": "5d946faf5fd86984",
   "lastOpenFiles": [
+    "02_Zettelkasten/Orquestração Multiagente.md",
+    "Excalidraw/img_Orquestração Multiagente.excalidraw.md",
+    "Excalidraw/img_Agente.excalidraw.md",
+    "02_Zettelkasten/Agente.md",
+    "Excalidraw/img_Postura Intencional (Intencional Stance).excalidraw.md",
     "02_Zettelkasten/Ambiente.md",
     "02_Zettelkasten/Objeto Sistema Multiagente.md",
     "02_Zettelkasten/Postura Intencional (Intencional Stance).md",
     "02_Zettelkasten/Template.md",
-    "Excalidraw/img_Agente.excalidraw.md",
-    "02_Zettelkasten/Agente.md",
-    "Excalidraw/img_Postura Intencional (Intencional Stance).excalidraw.md",
     "Excalidraw/img_Objeto_Sistema_Multiagente.excalidraw.md",
     "Excalidraw/img_Ambiente.excalidraw.md",
     "02_Zettelkasten/Objeto_Sistema_Multiagente 1.md",
